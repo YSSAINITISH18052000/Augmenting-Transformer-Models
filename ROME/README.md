@@ -7,14 +7,18 @@ We currently support OpenAI's GPT-2 XL (1.5B) and EleutherAI's GPT-J (6B).
     <img src="https://rome.baulab.info/images/eiftower-crop.svg" alt="causal tracing GIF" width="425px" />
 </p>
 
+
+You can find the official paper [here](https://openreview.net/forum?id=-h6WAS6eE4).
+
+You can access the datasets [here](https://rome.baulab.info/data/).
+
+
 ## Table of Contents
 1. [Installation](#installation)
 2. [Causal Tracing](#causal-tracing)
 3. [Rank-One Model Editing (ROME)](#rank-one-model-editing-rome-1)
 4. [Running the Full Evaluation Suite](#running-the-full-evaluation-suite)
 5. [Results]()
-
-You can access the datasets [here](https://rome.baulab.info/data/).
 
 
 
