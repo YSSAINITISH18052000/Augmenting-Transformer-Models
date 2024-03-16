@@ -67,9 +67,6 @@ request = {
 Several similar examples are included in the notebook.
 
 
-## Evaluation
-
-See [`baselines/`](baselines/) for a description of the available baselines.
 
 ### Running the Full Evaluation Suite
 
@@ -100,4 +97,8 @@ python3 -m experiments.summarize --dir_name=ROME --runs=run_<run_id>
 ```
 
 Running `python3 -m experiments.evaluate -h` or `python3 -m experiments.summarize -h` provides details about command-line flags.
+
+
+
+### Results
 
