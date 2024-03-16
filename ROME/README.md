@@ -14,6 +14,9 @@ We currently support OpenAI's GPT-2 XL (1.5B) and EleutherAI's GPT-J (6B).
 4. [Running the Full Evaluation Suite](#running-the-full-evaluation-suite)
 5. [Results]()
 
+You can access the datasets [here](https://rome.baulab.info/data/).
+
+
 
 ## Installation
 
