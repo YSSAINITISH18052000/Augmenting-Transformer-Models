@@ -18,8 +18,6 @@ You can access the datasets [here](https://rome.baulab.info/data/).
 2. [Causal Tracing](#causal-tracing)
 3. [Rank-One Model Editing (ROME)](#rank-one-model-editing-rome-1)
 4. [Running the Full Evaluation Suite](#running-the-full-evaluation-suite)
-5. [Results]()
-
 
 
 ## Installation
@@ -104,8 +102,4 @@ python3 -m experiments.summarize --dir_name=ROME --runs=run_<run_id>
 ```
 
 Running `python3 -m experiments.evaluate -h` or `python3 -m experiments.summarize -h` provides details about command-line flags.
-
-
-
-### Results
 
